@@ -4,11 +4,11 @@ This project was created using Vite, React, and TypeScript. It also utilizes Git
 
 ## Initialize project
 
-Before running this application, run npm install to install the necessary dependencies.
+Before running this application, `npm install` to install the necessary dependencies.
 
 ## Development server
 
-To start a development server, run npm run dev. Then, open a web browser and navigate to http://localhost:3000/. The application will automatically reload if you make any changes to the source files.
+To start a development server, run `npm run dev`. Then, open a web browser and navigate to http://localhost:3000/. The application will automatically reload if you make any changes to the source files.
 
 ## Build
 
